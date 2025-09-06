@@ -18,7 +18,7 @@ so keep that in mind as you work in this repository.
 
 ## Contents
 
-* `data/companycam_practice.db` — A SQLite database with four tables: contractors,
+* `data/sql_practice.db` — A SQLite database with four tables: contractors,
 jobs, photos, and events. The schema has been seeded with realistic
 timestamps and activities so you can practice joins, window functions,
 aggregations, cohort analyses, and feature engineering.
